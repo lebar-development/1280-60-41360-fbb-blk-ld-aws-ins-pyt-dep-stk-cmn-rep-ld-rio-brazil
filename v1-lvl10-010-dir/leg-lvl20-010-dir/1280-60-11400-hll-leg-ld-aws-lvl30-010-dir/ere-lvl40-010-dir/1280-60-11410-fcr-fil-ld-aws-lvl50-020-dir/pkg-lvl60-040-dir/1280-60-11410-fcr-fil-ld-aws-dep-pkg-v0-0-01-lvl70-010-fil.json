@@ -1,11 +1,13 @@
 {
  "resourceMetadataKEY": "yes",
- "botStakeKEY": "pyt",
- "containerKEY": "id2",
- "osKEY": "ubuntu 20.04",
- "npmKEY": "8.09",
- "nodeKEY": "16.09",
- "awsCliKEY": "2.02.1",
- "pyttKEY": "3.08",
- "kubeCtlKEY": "2.21"
+ "stackLanguageKEY": "python",
+ "stackVersionNumberKEY": "v0-0-01",
+ "baseImageIDKEY": "image-id",
+ "operatingSystemNameKEY": "ubuntu",
+ "operatingSystemVersionNumberKEY": "20.04",
+ "pythonVersionNumberKEY": "3.08",
+ "npmVersionNumberKEY": "8.09",
+ "nodeVersionNumberKEY": "16.09",
+ "awsCliVersionNumberKEY": "2.02.1",
+ "kubectlVersionNumberKEY": "2.21"
 }

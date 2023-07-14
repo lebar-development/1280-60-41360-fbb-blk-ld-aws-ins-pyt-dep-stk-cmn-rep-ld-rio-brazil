@@ -1,14 +1,3 @@
 {
- "resourceMetadataKEY": "yes",
- "stackLanguageKEY": "python",
- "stackVersionNumberKEY": "v0-0-01",
- "botVersionNumberKEY": "v0-0-01",
- "baseImageIDKEY": "image-id",
- "operatingSystemNameKEY": "ubuntu",
- "operatingSystemVersionNumberKEY": "20.04",
- "pythonVersionNumberKEY": "3.08",
- "npmVersionNumberKEY": "8.09",
- "nodeVersionNumberKEY": "16.09",
- "awsCliVersionNumberKEY": "2.02.1",
- "kubectlVersionNumberKEY": "2.21"
+  "resourceMetadataKEY": "no"
 }

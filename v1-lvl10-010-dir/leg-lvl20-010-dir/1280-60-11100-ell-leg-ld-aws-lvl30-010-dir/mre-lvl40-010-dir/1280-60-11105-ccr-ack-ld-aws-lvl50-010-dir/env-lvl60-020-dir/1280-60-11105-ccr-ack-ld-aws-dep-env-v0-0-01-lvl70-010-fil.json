@@ -9,5 +9,5 @@
   "bAvailabilityZoneCodeKEY": "no",
   "cAvailabilityZoneCodeKEY": "no",
   "serviceNameKEY": "ec2",
-  "serviceTypeKEY": "global/regional"
+  "serviceTypeKEY": "regional"
 }

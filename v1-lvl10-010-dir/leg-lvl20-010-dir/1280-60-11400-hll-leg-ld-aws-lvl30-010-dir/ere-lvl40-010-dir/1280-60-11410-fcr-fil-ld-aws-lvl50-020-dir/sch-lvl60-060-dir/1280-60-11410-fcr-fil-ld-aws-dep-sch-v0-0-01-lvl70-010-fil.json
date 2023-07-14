@@ -1,5 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
+  "configFileTextKEY": "config file to update the EKS Cluster name",
   "resourceTagKEY": {
     "ticketIDTAG": "ticket-number",
     "botNameTAG": "name",

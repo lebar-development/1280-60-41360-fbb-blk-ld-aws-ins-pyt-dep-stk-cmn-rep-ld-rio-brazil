@@ -1,0 +1,19 @@
+{
+  "resourceMetadataKEY": "yes",
+  "accessKeyNameKEY": "crypto-bing-1280-60-ack-ld",
+  "resourceTypeTAG": "other-type-of-secret",
+  "resourceStringTypeKEY": "key-value pair",
+  "secretTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This secret includes credentials of the crypto-bing-1280-60-ack-ld access key.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "SugarCookieloafTrollBOT",
+    "ifqridKEY": "1280-60-11110-fcr-sec-ld-aws",
+    "resourceTypeKEY": "sec",
+    "blockNumberKEY": "1280-60",
+    "applicationKEY": "lebar",
+    "environmentIDKEY": "ld",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}

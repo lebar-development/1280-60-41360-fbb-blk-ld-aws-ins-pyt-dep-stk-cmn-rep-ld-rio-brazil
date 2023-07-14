@@ -1,0 +1,8 @@
+{
+  "resourceMetadataKEY": "yes",
+  "secretTextKEY": "private access key credentials",
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}

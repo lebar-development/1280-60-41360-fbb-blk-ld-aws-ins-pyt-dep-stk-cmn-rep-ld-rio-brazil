@@ -1,0 +1,8 @@
+{
+  "resourceMetadataKEY": "yes",
+  "accessKeyTextKEY": "access key for crypto-bing-1080-30-usr-ld",
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}

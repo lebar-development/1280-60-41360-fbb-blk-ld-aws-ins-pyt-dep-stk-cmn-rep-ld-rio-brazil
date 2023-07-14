@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "webServicePlatformKEY": "AWS",
+  "webServicePlatformNameKEY": "AWS",
   "accountNumberKEY": "115289452667",
   "regionAreaNameKEY": "europe",
   "regionNameKEY": "london",

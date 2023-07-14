@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "secretTextKEY": "private access key credentials",
+  "secretTextKEY": "secret for the crypto-bing-1280-60-ack-ld access key",
   "resourceTagKEY": {
     "ticketIDKEY": "ticket-number",
     "deploymentDateKEY": "current-date"

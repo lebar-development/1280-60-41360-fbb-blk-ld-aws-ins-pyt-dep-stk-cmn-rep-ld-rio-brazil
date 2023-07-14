@@ -2,6 +2,7 @@
  "resourceMetadataKEY": "yes",
  "stackLanguageKEY": "python",
  "stackVersionNumberKEY": "v0-0-01",
+ "botVersionNumberKEY": "v0-0-01",
  "baseImageIDKEY": "image-id",
  "operatingSystemNameKEY": "ubuntu",
  "operatingSystemVersionNumberKEY": "20.04",

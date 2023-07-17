@@ -2,8 +2,5 @@
   "resourceMetadataKEY": "yes",
   "vpcIDKEY": "vpc-088bbbf532ac350bc",
   "aSubnetIDKEY":"subnet-06dfc8a92d86794c3",
-  "kubeProxyVersionNumberKEY": "1.21.2",
-  "vpcCNIVersionNumberKEY": "1.10.1",
-  "coreDNSVersionNumberKEY": "1.8.4",
-  "ebsCSIDriverVersionNumberKEY": "1.20.0"
+  "vpcCNIVersionNumberKEY": "1.10.1"
 }

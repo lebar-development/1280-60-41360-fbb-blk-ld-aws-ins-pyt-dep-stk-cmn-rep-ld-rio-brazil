@@ -11,7 +11,7 @@
     "ifqridKEY": "1280-60-11110-fcr-sec-ld-aws",
     "resourceTypeKEY": "sec",
     "blockNumberKEY": "1280-60",
-    "applicationKEY": "lebar",
+    "applicationNameKEY": "lebar",
     "environmentIDKEY": "ld",
     "regionCodeKEY": "eu-west-2",
     "deploymentTypeKEY": "sdk"

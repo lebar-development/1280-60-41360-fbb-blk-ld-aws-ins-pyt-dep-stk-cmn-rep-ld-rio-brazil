@@ -1,7 +1,7 @@
 {
   "resourceMetadataKEY": "yes",
   "accessKeyNameKEY": "crypto-bing-1280-60-ack-ld",
-  "resourceTypeTAG": "other-type-of-secret",
+  "resourceTypeKEY": "other-type-of-secret",
   "resourceStringTypeKEY": "key-value pair",
   "secretTextKEY": "XXXX",
   "resourceDescriptionKEY": "This secret includes credentials of the crypto-bing-1280-60-ack-ld access key.",
